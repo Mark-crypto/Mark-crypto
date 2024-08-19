@@ -2,11 +2,11 @@
 <h3 align="center">I am a passionate fullstack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"/>
 
-- 🌱 I’m currently learning **Cloud practitioner essentials by AWS**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **abongomark04@gmail.com**
 
-- ⚡ Fun fact **I am creative and funny**
+- ⚡ Fun fact **I recently got my Cloud Practiotioner certificate by AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
