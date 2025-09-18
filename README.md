@@ -10,9 +10,9 @@
 ###  About Me
 -  Currently diving deeper into **DevOps & Scalable Architectures**  
 -  Proud to be **AWS Cloud Practitioner Certified**  
--  I enjoy building systems that solve real-world problems (from farm management to SaaS apps)  
+-  I enjoy building systems that solve real-world problems  
 -  Writing & sharing ideas on **[Medium](https://medium.com/@mark.onyango_95482)**  
--  Fun fact: I mix tech + agriculture — building AI-driven solutions for poultry farming 🐔💡  
+-  Fun fact: I mix tech + agriculture - offering sustainable solutions  
 -  Reach me: **abongomark04@gmail.com**
 
 ---
