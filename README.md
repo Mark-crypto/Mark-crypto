@@ -1,21 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mark Onyango</h1>
-<h3 align="center">I am a passionate Software Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"/>
+<h1 align="center">Hi there 👋, I'm Mark Onyango</h1>
+<h3 align="center">💻 Full-Stack Developer | 🌐 Cloud Enthusiast | 🤖 AI Explorer</h3>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 📫 How to reach me **abongomark04@gmail.com**
-
-- ⚡ Fun fact **I recently got my Cloud Practiotioner certificate by AWS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mark-abong-o-66355a233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-abong-o-66355a233" height="30" width="40" /></a>
-<a href="https://medium.com/@mark.onyango_95482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mark.onyango_95482" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mark-crypto&show_icons=true&locale=en&layout=compact" alt="mark-crypto" /></p>
+###  About Me
+-  Currently diving deeper into **DevOps & Scalable Architectures**  
+-  Proud to be **AWS Cloud Practitioner Certified**  
+-  I enjoy building systems that solve real-world problems (from farm management to SaaS apps)  
+-  Writing & sharing ideas on **[Medium](https://medium.com/@mark.onyango_95482)**  
+-  Fun fact: I mix tech + agriculture — building AI-driven solutions for poultry farming 🐔💡  
+-  Reach me: **abongomark04@gmail.com**
 
+---
+
+###  Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/mark-abong-o-66355a233" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40"/>
+  </a>
+  <a href="https://medium.com/@mark.onyango_95482" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="medium" width="40"/>
+  </a>
+</p>
+
+---
+
+###  Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,mongodb,git,postman,html,css,bootstrap,aws" />
+</p>
+
+---
+
+###  GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mark-crypto&show_icons=true&theme=tokyonight" alt="github stats"/>
+  <img src="https://github-readme-strea
