@@ -34,9 +34,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,mongodb,git,postman,html,css,bootstrap,aws" />
 </p>
 
----
 
-###  GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mark-crypto&show_icons=true&theme=tokyonight" alt="github stats"/>
-  <img src="https://github-readme-strea
